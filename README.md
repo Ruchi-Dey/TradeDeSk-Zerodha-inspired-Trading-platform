@@ -173,8 +173,9 @@ This project is licensed under the MIT License.
 
 **Your Name**
 
-* GitHub: https://github.com/your-username
-* LinkedIn: https://linkedin.com/in/your-profile
+* GitHub: https://github.com/Ruchi-Dey
+* LinkedIn: www.linkedin.com/in/ruchi-dey
+
 
 ---
 
